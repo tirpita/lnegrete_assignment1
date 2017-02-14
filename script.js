@@ -115,6 +115,8 @@ window.alert("Hello" + " " + "Leah Negrete" + "," + " " + "welcome to the Javasc
 
 
 //STEP 12
+
+/*
 var name = "Leah Negrete";
 window.alert("Hello" + " " + name + "," + " " + "welcome to the Javascript class.");
 
@@ -133,7 +135,7 @@ window.alert("Hello" + " " + yourname + "," + "\n" + "welcome to the" + " " + co
 var yourname = prompt("Please enter your name.");
 var yourcourse = prompt("Pleae enter the course you are taking.")
 window.alert("Hello" + " " + yourname + "," + "\n" + "welcome to the" + " " + yourcourse + " " + "class.");
-
+*/
 
 //STEP 17
 
