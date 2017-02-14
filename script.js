@@ -1,5 +1,5 @@
 //STEP 1
-<<<<<<< HEAD
+
 /*
 var someMonth;
 fnctTheMonth 		// function to return current month
