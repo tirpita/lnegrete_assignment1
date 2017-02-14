@@ -201,12 +201,4 @@ window.console.log(widget instanceof Object);
 var widget = new Object;
 window.console.log(widget instanceof String);
 */
-=======
-var someMonth;
-function TheMonth 		// function to return current month
-currentMonth            // a constant 
-var summerMonth; 		// an array of summer months
-myLibraryAfunction	    // a function 
 
-//STEP 2
->>>>>>> origin/master
